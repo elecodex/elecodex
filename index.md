@@ -1,6 +1,5 @@
 ## Welcome to elecodex scripts.
-
-### Markdown
+Social Medias
 ```markdown
 Discord: ele#4041
 ```
